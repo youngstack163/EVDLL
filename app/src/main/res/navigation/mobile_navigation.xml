@@ -8,7 +8,7 @@
     <fragment
         android:id="@+id/navigation_videos"
         android:name="com.example.evdll.ui.videos.VideosFragment"
-        android:label="Videos"
+        android:label="@string/title_videos"
         tools:layout="@layout/fragment_videos" />
     <fragment
         android:id="@+id/navigation_home"
